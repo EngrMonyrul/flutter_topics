@@ -1,6 +1,6 @@
 StatelessWidget()
 StatefulWidget()
-Container() - height, width, decoration - BoxDecoration - color, borderRadius, border, color, alignment, child,  
+Container() - height, width, decoration - BoxDecoration - color, borderRadius, border, color, alignment, child
 ListView() - children
 ListTile() - title, leading, trailing
-ListView.builder() - 
+ListView.builder() - itemCount, itemBuilder - return 'widgets'
