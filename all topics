@@ -4,3 +4,4 @@ Container() - height, width, {decoration - BoxDecoration - color, borderRadius, 
 ListView() - children
 ListTile() - title, leading, trailing, subtitle
 ListView.builder() | ListView.separated() - itemCount, {itemBuilder - return 'widgets'}, separatorBuilder, scrollDirection 
+bottomNavigationBar - BottomNavigationBar | CurvedNavigationBar - 
