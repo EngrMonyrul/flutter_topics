@@ -3,4 +3,4 @@ StatefulWidget()
 Container() - height, width, {decoration - BoxDecoration - color, borderRadius, border, color, alignment}, child
 ListView() - children
 ListTile() - title, leading, trailing, subtitle
-ListView.builder() | ListView.separated() - itemCount, {itemBuilder - return 'widgets'}
+ListView.builder() | ListView.separated() - itemCount, {itemBuilder - return 'widgets'}, separatorBuilder, scrollDirection 
