@@ -5,4 +5,5 @@ ListView() - children
 ListTile() - title, leading, trailing, subtitle
 ListView.builder() | ListView.separated() - itemCount, {itemBuilder - return 'widgets'}, separatorBuilder, scrollDirection 
 bottomNavigationBar - BottomNavigationBar | CurvedNavigationBar - animationDuration, 
-appBar
+appBar - {AppBar - title, shape}
+Stack() - children, {overflow - clip, visible}
