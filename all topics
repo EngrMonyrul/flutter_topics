@@ -7,3 +7,4 @@ ListView.builder() | ListView.separated() - itemCount, {itemBuilder - return 'wi
 bottomNavigationBar - BottomNavigationBar | CurvedNavigationBar - animationDuration, 
 appBar - {AppBar - title, shape}
 Stack() - children, {overflow - clip, visible}
+GridView.count() - children, crossAxisSpacing, mainAxisSpacing, crossAxisCount
