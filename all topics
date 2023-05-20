@@ -8,3 +8,4 @@ bottomNavigationBar - BottomNavigationBar | CurvedNavigationBar - animationDurat
 appBar - {AppBar - title, shape}
 Stack() - children, {overflow - clip, visible}
 GridView.count() - children, crossAxisSpacing, mainAxisSpacing, crossAxisCount
+GridView.builder() - gridDelegate, itemCount, {itemBuilder -  return 'widgets'}
